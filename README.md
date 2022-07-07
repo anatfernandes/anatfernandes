@@ -6,3 +6,5 @@
  - 💬 Estudo 2 idiomas: inglês e japonês.
  - ☕ Adoro café.
  - 😄 Pronomes: ela/dela.
+
+---
