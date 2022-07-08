@@ -21,8 +21,8 @@
 <br/>
 
 ## Github Status
-<img align="left" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false" />
-<img align="left" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes" />
+<img align="left" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&theme=tokyonight" />
+<img align="left" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight" />
 
 <!--
 <details>
