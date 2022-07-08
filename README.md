@@ -1,20 +1,20 @@
-### Hi there 👋
-
+### Hi there :octocat:
 ---
-
 <a href = "mailto:contato@analuizateixeirafernandes184@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <img src="https://c.tenor.com/WyJAvCGngM0AAAAC/aw-cute.gif" height="170px" align="right"/>
+<br/>
+<br/>
 
-
-
-## Sobre mim
- - 👩🏽‍💻 Atualmente estudando para ser um desenvolvedor Full Stack.
+## 👩🏽 Sobre mim
+ - 👩🏽‍💻 Atualmente estudando para ser uma desenvolvedora Full Stack.
  - 📖 Estou escrevendo meu primeiro livro.
  - 💬 Estudo 2 idiomas: inglês e japonês.
  - ☕ Adoro café.
  - 😄 Pronomes: ela/dela.
 
-## Linguagens e ferramentas
+<br/>
+
+## 💻 Linguagens e ferramentas
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -23,8 +23,9 @@
 
 <br/>
 <br/>
+<br/>
 
-## Github Status
+## ⚡ Github Status
 <img align="left" alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&theme=tokyonight" />
 <img align="left" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight" />
 
