@@ -1,12 +1,13 @@
 ### Hi there :octocat:
 ---
-<a href = "mailto:contato@analuizateixeirafernandes184@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a target="_blank" href="mailto:analuizateixeirafernandes184@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 <img src="https://c.tenor.com/WyJAvCGngM0AAAAC/aw-cute.gif" height="170px" align="right"/>
 <br/>
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Atualmente estudando para ser uma desenvolvedora Full Stack.
  - 📖 Estou escrevendo meu primeiro livro.
  - 💬 Estudo 2 idiomas: inglês e japonês.
  - ☕ Adoro café.
