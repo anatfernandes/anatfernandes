@@ -8,6 +8,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
+ - 👩🏽‍💻 Aprendendo React.
  - 📖 Estou escrevendo meu primeiro livro.
  - 💬 Estudo 2 idiomas: inglês e japonês.
  - ☕ Adoro café.
