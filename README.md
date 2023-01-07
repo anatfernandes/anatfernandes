@@ -13,7 +13,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprendendo Testes de Integração.
+ - 👩🏽‍💻 Aprendendo Redis.
  - 📖 Estou escrevendo meu primeiro livro.
  - 💬 Estudo 2 idiomas: inglês e japonês.
  - ☕ Adoro café.
