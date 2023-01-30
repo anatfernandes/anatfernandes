@@ -16,7 +16,6 @@
  - 👩🏽‍💻 Aprendendo AWS.
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
- - 💬 Estudo 2 idiomas: inglês e japonês.
  - ☕ Adoro café.
  - 😄 Pronomes: ela/dela.
 
