@@ -13,7 +13,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprendendo AWS.
+ - 👩🏽‍💻 Aprendendo POO.
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
  - ☕ Adoro café.
