@@ -3,8 +3,11 @@
 <a target="_blank" href="mailto:analuizateixeirafernandes184@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-<a target="_blank" href="mailto:https://www.linkedin.com/in/analtfernandes/">
+<a target="_blank" href="https://www.linkedin.com/in/analtfernandes/">
   <img src="https://img.shields.io/badge/Linkedin-0966C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a target="_blank" href="https://stackoverflow.com/users/21293571/ana-fernandes">
+  <img src="https://img.shields.io/badge/stackoverflow-F09A55?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
 </a>
 
 <img src="https://c.tenor.com/WyJAvCGngM0AAAAC/aw-cute.gif" height="130px" align="right"/>
