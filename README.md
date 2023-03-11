@@ -16,7 +16,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprendendo POO.
+ - 👩🏽‍💻 Aprendendo Testes unitários.
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
  - ☕ Adoro café.
