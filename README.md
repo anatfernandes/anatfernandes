@@ -55,9 +55,9 @@
 <br/>
 
 ## ⚡ Github Status
-<div>
+
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&theme=tokyonight" />
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLTFernandes&theme=tokyonight" />
   <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight" />
-</div>
+
 
