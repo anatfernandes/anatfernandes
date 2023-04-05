@@ -16,7 +16,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprendendo Java.
+[comment]: <> (- 👩🏽‍💻 Aprendendo Java.)
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
  - ☕ Adoro café.
@@ -32,6 +32,8 @@
   <img alt="TypeScript" height="24px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Node.js" height="24px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Express.js" height="24px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Java" height="24px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring Boot" height="24px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
   <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="React" height="24px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="React Router" height="24px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -39,6 +41,7 @@
   <img alt="MongoDB" height="24px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" height="24px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Redis" height="24px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="Prisma ORM" height="24px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img alt="Docker" height="24px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="AWS" height="24px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="NPM" height="24px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -55,9 +58,9 @@
 <br/>
 
 ## ⚡ Github Status
-
+<div>
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&theme=tokyonight" />
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLTFernandes&theme=tokyonight" />
-  <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight" />
-
+  <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight&layout=compact" />
+</div>
 
