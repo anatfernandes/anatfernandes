@@ -57,10 +57,16 @@
 
 <br/>
 
-## ⚡ Github Status
-<div>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&theme=tokyonight" />
+## ⚡ Github Stats
+
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
+
+## ⚡ Github Streak Stats
+
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLTFernandes&theme=tokyonight" />
+
+## ⚡ Most Used Language
+
   <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight&layout=compact" />
-</div>
+
 
