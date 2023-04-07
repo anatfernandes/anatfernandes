@@ -17,6 +17,7 @@
 
 ## 👩🏽 Sobre mim
 [comment]: <> (- 👩🏽‍💻 Aprendendo Java.)
+ - 🧠 Tenho uma mente insaciável, então frequentemente estou aprendendo algo.
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
  - ☕ Adoro café.
