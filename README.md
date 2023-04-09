@@ -17,7 +17,8 @@
 
 ## 👩🏽 Sobre mim
 [comment]: <> (- 👩🏽‍💻 Aprendendo Java.)
- - 🧠 Tenho uma mente insaciável, então frequentemente estou aprendendo algo.
+ - 👩🏽‍💻 Aprofundando em DevOps.
+ - 🧠 Tenho uma mente insaciável.
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
  - ☕ Adoro café.
@@ -54,6 +55,7 @@
   <img alt="Linux" height="24px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Heroku" height="24px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="Vercel" height="24px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Render" height="24px" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </div>
 
 <br/>
