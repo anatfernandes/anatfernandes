@@ -1,13 +1,10 @@
 ### < Hi there, I'm Ana :octocat: />
 ---
 <a target="_blank" href="mailto:analuizateixeirafernandes184@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/analtfernandes/">
-  <img src="https://img.shields.io/badge/Linkedin-0966C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a target="_blank" href="https://stackoverflow.com/users/21293571/ana-fernandes">
-  <img src="https://img.shields.io/badge/stackoverflow-F09A55?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <img src="https://c.tenor.com/WyJAvCGngM0AAAAC/aw-cute.gif" height="130px" align="right"/>
@@ -72,4 +69,36 @@
 
   <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight&layout=compact" />
 
+## ⚡ GitHub Profile Trophy
 
+  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=analtfernandes&margin-w=15&margin-h=15&theme=nord&rank=-?" />
+
+<br/>
+
+## 🛜 Se conecte comigo
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/analtfernandes/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:analuizateixeirafernandes184@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://stackoverflow.com/users/21293571/ana-fernandes">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://codesandbox.io/u/analtfernandes">
+    <img alt="CodeSandbox" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://codepen.io/analtfernandes">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://replit.com/@analtfernandes?path=folder%2FUnnamed&tab=repls">
+    <img alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.codewars.com/users/analtfernandes">
+    <img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.hackerrank.com/analtfernandes?hr_r=1">
+    <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</div>
