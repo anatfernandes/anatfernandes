@@ -57,21 +57,37 @@
 
 <br/>
 
-## ⚡ Github Stats
-
+<details>
+  <summary>
+   <h2>⚡ Github Stats</h2>
+  </summary>
+  
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
+</details>
 
-## ⚡ Github Streak Stats
-
+<details>
+  <summary>
+   <h2>⚡ Github Streak Stats</h2>
+  </summary>
+  
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLTFernandes&theme=tokyonight" />
+</details>
 
-## ⚡ Most Used Language
-
+<details>
+  <summary>
+   <h2>⚡ Most Used Language</h2>
+  </summary>
+  
   <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight&layout=compact" />
+</details>
 
-## ⚡ GitHub Profile Trophy
-
+<details>
+  <summary>
+   <h2>⚡ GitHub Profile Trophy</h2>
+  </summary>
+  
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=analtfernandes&margin-w=15&margin-h=15&theme=nord&rank=-?" />
+</details>
 
 <br/>
 
