@@ -13,8 +13,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
-[comment]: <> (- 👩🏽‍💻 Aprendendo Java.)
- - 👩🏽‍💻 Aprofundando em DevOps.
+ - 👩🏽‍💻 Aprendendo Angular.
  - 🧠 Tenho uma mente insaciável.
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
@@ -34,6 +33,7 @@
   <img alt="Java" height="24px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring Boot" height="24px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
   <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="React" height="24px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="React Router" height="24px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img alt="Styled-Components" height="24px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
