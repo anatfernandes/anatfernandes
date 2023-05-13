@@ -13,7 +13,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprendendo Angular.
+ - 👩🏽‍💻 Aprofundando em Java + Angular.
  - 🧠 Tenho uma mente insaciável.
  - 🧩 Apaixonada por resolver desafios.
  - 📖 Estou escrevendo meu primeiro livro.
