@@ -14,10 +14,10 @@
 
 ## 👩🏽 Sobre mim
  - 👩🏽‍💻 Aprofundando em Java + Angular.
- - 🧠 Tenho uma mente insaciável.
+ - 🧠 Sou insaciável.
  - 🧩 Apaixonada por resolver desafios.
- - 📖 Estou escrevendo meu primeiro livro.
  - ☕ Adoro café.
+ - ⭐ Curiosidade: estou escrevendo um livro de ficção.
  - 😄 Pronomes: ela/dela.
 
 <br/>
