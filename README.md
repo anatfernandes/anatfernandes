@@ -13,7 +13,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprofundando em Java + Angular.
+[comment]: <> (- 👩🏽‍💻 Aprofundando em Java + Angular.)
  - 🧠 Sou insaciável.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
