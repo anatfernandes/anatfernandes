@@ -15,7 +15,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
-[comment]: <> (- 👩🏽‍💻 Aprofundando em Java + Angular.)
+ - 👩🏽‍💻 Aprendendo GraphQL.
  - 🧠 Sou insaciável.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
@@ -34,6 +34,7 @@
   <img alt="Express.js" height="24px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="Java" height="24px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring Boot" height="24px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img alt="GraphQL" height="24px" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="Angular" height="24px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="React" height="24px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
