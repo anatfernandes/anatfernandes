@@ -15,7 +15,7 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprendendo GraphQL.
+ - 👩🏽‍💻 Aprendendo GraphQL e Vue.
  - 🧠 Sou insaciável.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
