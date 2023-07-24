@@ -13,7 +13,6 @@
 <br/>
 
 ## 👩🏽 Sobre mim
- - 👩🏽‍💻 Aprendendo Vue.
  - 🧠 Sou insaciável.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
