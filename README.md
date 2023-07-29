@@ -64,7 +64,7 @@
    <h2>⚡ Github Stats</h2>
   </summary>
   
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
+  <img alt="GitHub Stats" src="https://altf-github-reame-stats-clone.vercel.app/api?username=analtfernandes&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
 </details>
 
 <details>
@@ -80,7 +80,7 @@
    <h2>⚡ Most Used Language</h2>
   </summary>
   
-  <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight&layout=compact" />
+  <img alt="Most Used Language" src="https://altf-github-reame-stats-clone.vercel.app/api/top-langs/?username=analtfernandes&theme=tokyonight&layout=compact" />
 </details>
 
 <details>
@@ -88,7 +88,7 @@
    <h2>⚡ GitHub Profile Trophy</h2>
   </summary>
   
-  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=analtfernandes&margin-w=15&margin-h=15&theme=nord&rank=-?" />
+  <img alt="Profile Trophy" src="https://altf-github-profile-trophy-clone.vercel.app/?username=analtfernandes&margin-w=15&margin-h=15&theme=nord&rank=-?&count_private=true" />
 </details>
 
 <br/>
