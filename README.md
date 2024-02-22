@@ -14,7 +14,6 @@
 
 ## 👩🏽 Sobre mim
  - 🧠 Sou insaciável.
- - 📚 Estudando testes para frontend.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💬 Me pergunte sobre qualquer coisa! Não sei tudo, então vou adorar aprender mais.
