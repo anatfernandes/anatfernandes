@@ -20,7 +20,7 @@
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💬 Me pergunte sobre qualquer coisa! Não sei tudo, então vou adorar aprender mais.
- - ⭐ Curiosidade: estou escrevendo um livro de ficção.
+ - ⭐ Curiosidade: estou publicando um livro de ficção.
  - 😄 Pronomes: ela/dela.
 
 <br/>
