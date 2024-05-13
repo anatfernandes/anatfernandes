@@ -44,6 +44,7 @@
   <img alt="React Router" height="24px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img alt="Styled-Components" height="24px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="MongoDB" height="24px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Fauna" height="24px" src="https://img.shields.io/badge/Fauna-3D00A2?style=for-the-badge&logo=Fauna&logoColor=white" />
   <img alt="PostgreSQL" height="24px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Redis" height="24px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Prisma ORM" height="24px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
