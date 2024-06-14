@@ -16,6 +16,7 @@
 
 ## 👩🏽 Sobre mim
  - 🧠 Sou insaciável.
+ - 📚 Aprofundando em MongoDB.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💬 Me pergunte sobre qualquer coisa! Não sei tudo, então vou adorar aprender mais.
