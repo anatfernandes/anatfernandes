@@ -1,5 +1,7 @@
 ### Olá, sou Ana :octocat:
+
 ---
+
 <a target="_blank" href="mailto:anatfernandes.dev@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -17,6 +19,7 @@
  - 📚 Aprofundando em MongoDB.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
+ - 💻 Agnóstica de linguagem de programação.
  - ⭐ Curiosidade: estou publicando um livro de ficção.
  - 😄 Pronomes: ela/dela.
 
