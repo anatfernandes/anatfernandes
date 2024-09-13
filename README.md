@@ -20,7 +20,7 @@
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💻 Agnóstica de linguagem de programação.
- - ⭐ Curiosidade: estou lançando um livro de ficção.
+ - ⭐ Curiosidade: estou escrevendo um livro de ficção.
  - 😄 Pronomes: ela/dela.
 
 <br/>
