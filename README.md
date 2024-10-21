@@ -16,7 +16,7 @@
 
 ## 👩🏽 Sobre mim
  - 🧠 Sou insaciável.
- - 📚 Estudando sobre inteligência artificial.
+ - 📚 Estudando inteligência artificial.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💻 Agnóstica de linguagem de programação.
