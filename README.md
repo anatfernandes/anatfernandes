@@ -16,11 +16,11 @@
 
 ## 👩🏽 Sobre mim
  - 🧠 Sou insaciável.
- - 📚 Aprofundando em MongoDB.
+ - 📚 Estudando sobre inteligência artificial.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💻 Agnóstica de linguagem de programação.
- - ⭐ Curiosidade: estou escrevendo um livro de ficção.
+ - ⭐ Curiosidade: gosto de estudar idiomas.
  - 😄 Pronomes: ela/dela.
 
 <br/>
