@@ -14,6 +14,7 @@
 
 ## 👩🏽 Sobre mim
  - 🧠 Sou insaciável.
+ - 🎮 Desenvolvendo um jogo com JS
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💻 Agnóstica de linguagem de programação.
