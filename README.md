@@ -1,5 +1,7 @@
 ### Olá, sou Ana :octocat:
+
 ---
+
 <a target="_blank" href="mailto:anatfernandes.dev@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -15,7 +17,7 @@
 
 ## 👩🏽 Sobre mim
  - 🧠 Sou insaciável.
- - 🎮 Desenvolvendo um jogo com JS.
+ - 🎮 Desenvolvendo um jogo com Phaser.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💻 Agnóstica de linguagem de programação.
