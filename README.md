@@ -17,7 +17,7 @@
 
 ## 👩🏽 Sobre mim
  - 🧠 Sou insaciável.
- - 🎮 Desenvolvendo um jogo com Phaser.
+ - 🎮 Desenvolvendo um jogo 2D com Phaser.
  - 🧩 Apaixonada por resolver desafios.
  - ☕ Adoro café.
  - 💻 Agnóstica de linguagem de programação.
