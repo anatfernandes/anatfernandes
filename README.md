@@ -81,7 +81,7 @@
    <h2>⚡ Github Streak Stats</h2>
   </summary>
   
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anatfernandes&theme=tokyonight&exclude_days=Sun,Sat" />
+  <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=anatfernandes&theme=tokyonight&exclude_days=Sun,Sat,Tue" />
 </details>
 
 <details>
